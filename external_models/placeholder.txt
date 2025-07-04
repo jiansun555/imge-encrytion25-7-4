@@ -1,0 +1,1 @@
+This directory will store any pre-trained models if used (e.g., for Saliency Detection).
